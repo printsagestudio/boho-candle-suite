@@ -105,7 +105,7 @@ section {
    ============================================ */
 .hero {
     background-color: var(--background-color);
-    padding: 50px 0 120px;
+    padding: 30px 0 120px;
     overflow: hidden;
 }
 
@@ -201,7 +201,7 @@ section {
 
 .hero-real-image {
     width: 100%;
-    max-width: 550px; /* REDUCED FROM 800px TO 550px */
+    max-width: 400px; /* REDUCED FROM 800px TO 550px */
     height: auto;
     border-radius: 16px;
     box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
